@@ -1,0 +1,128 @@
+[
+    {
+        "meta_list": {
+            "readCount": 962,
+            "kindsOf": "Android",
+            "createTime": "2018-04-09T06:29:36.723Z",
+            "username": "Carson_Ho"
+        },
+        "title": "动态代理模式（Proxy Pattern） - 最易懂的设计模式解析",
+        "collectCount": 86,
+        "content": "本文主要讲解设计模式中的动态代理模式",
+        "avatar": "https://avatars3.githubusercontent.com/u/18041645?v=3",
+        "screenShot": "https://user-gold-cdn.xitu.io/2018/4/9/162a9187816d18ad?w=418&h=190&f=png&s=13640",
+        "originalUrl": "https://www.jianshu.com/p/5dc416ea58a2"
+    },
+    {
+        "meta_list": {
+            "readCount": 693,
+            "kindsOf": "后端",
+            "createTime": "2017-01-06T02:26:11.172Z",
+            "username": "Lindz"
+        },
+        "title": "设计模式之工厂模式",
+        "collectCount": 34,
+        "content": "详细介绍了工厂模式中的简单工厂模式，工厂方法模式和抽象工厂模式，并给出代码示例。",
+        "avatar": "https://user-gold-cdn.xitu.io/2016/11/29/00b71284283cb8d3a7e34705b7e617d0",
+        "screenShot": "",
+        "originalUrl": "https://zhuanlan.zhihu.com/p/24650116"
+    },
+    {
+        "meta_list": {
+            "readCount": 1715,
+            "kindsOf": "前端",
+            "createTime": "2018-01-28T13:58:36.905Z",
+            "username": "蚂蚁金服数据体验技术"
+        },
+        "title": "Typescript玩转设计模式 之 对象行为型模式（上）",
+        "collectCount": 153,
+        "content": "继前面几篇设计模式文章之后，这篇介绍5个对象行为型设计模式。 Handler（抽象处理者）：它定义了一个处理请求的接口，一般设计为抽象类，由于不同的具体处理者处理请求的方式不同，因此在其中定义了抽象请求处理方法。因为每一个处理者的下家还是一个处理者，因此在抽象处理者中定义了一个…",
+        "avatar": "https://user-gold-cdn.xitu.io/2017/9/7/217d533ac647f900de33fcd6f7d64c64",
+        "screenShot": "https://user-gold-cdn.xitu.io/2018/1/28/1613d0f2deeb9599?w=797&h=485&f=png&s=385879",
+        "originalUrl": "https://juejin.im/post/5a6dd4dd51882573385ffa8e"
+    },
+    {
+        "meta_list": {
+            "readCount": 1323,
+            "kindsOf": "后端",
+            "createTime": "2016-07-09T00:44:01.032Z",
+            "username": "HJXANDHMR"
+        },
+        "title": "设计模式之策略模式",
+        "collectCount": 64,
+        "content": "设计模式之策略模式",
+        "avatar": "https://user-gold-cdn.xitu.io/2016/11/29/16b5174ae93886f8b70b4507352a99b5",
+        "screenShot": "https://lc-mhke0kuv.cn-n1.lcfile.com/6ea64bc1826344438d86.png",
+        "originalUrl": "http://hjxandhmr.github.io/2016/06/10/DesignPattern-Strategy/"
+    },
+    {
+        "meta_list": {
+            "readCount": 4761,
+            "kindsOf": "前端",
+            "createTime": "2018-05-07T17:00:42.582Z",
+            "username": "Wilton"
+        },
+        "title": "不好意思，观察者模式跟发布订阅模式就是不一样",
+        "collectCount": 398,
+        "content": "一天，小猪佩奇去了一家西餐厅，点了一份西冷牛扒，还叫了圣女果。后来服务员上了一碟番茄：佩奇小姐，这是你的「圣女果」。佩奇猪一眼就看出了猫腻：这tm是番茄，不是圣女果啊！于是就跟服务员理论起来：这是番茄不是圣女果，不是！服务员一脸懵逼：番茄不就是圣女果吗？...佩奇猪一脸「黑人问…",
+        "avatar": "https://user-gold-cdn.xitu.io/2018/5/3/163263e90accd260?w=691&h=640&f=jpeg&s=56059",
+        "screenShot": "",
+        "originalUrl": "https://juejin.im/post/5af05d406fb9a07a9e4d2799"
+    },
+    {
+        "meta_list": {
+            "readCount": 47,
+            "kindsOf": "Android",
+            "createTime": "2018-03-16T01:01:48.338Z",
+            "username": "codeGoogle"
+        },
+        "title": "单例模式 - 确定 N 先生的GrilFriend",
+        "collectCount": 2,
+        "content": "N 先生很快就要大学毕业，大学四年忙于学(网)业(游)，也没有找个女朋友。每每回家，家人都催促他赶快谈一个，或者干脆说要直接给 N 先生介绍对象。 有句话说什么样的年龄就该做什么样的事情，这句话放在当下还是很有道理的。可是 N 先生心中对成家立业是有自己的认识的，认为先立业而后…",
+        "avatar": "https://user-gold-cdn.xitu.io/2017/7/13/8fca7ddc978d22e6552936bd739a8d67",
+        "screenShot": "https://user-gold-cdn.xitu.io/2018/3/16/1622c534436ca5fc?w=400&h=202&f=jpeg&s=40769",
+        "originalUrl": "https://juejin.im/post/5aab171bf265da2377192637"
+    },
+    {
+        "meta_list": {
+            "readCount": 124,
+            "kindsOf": "后端",
+            "createTime": "2017-12-08T05:40:49.413Z",
+            "username": "哪吒小子"
+        },
+        "title": "设计模式学习笔记-工厂模式 | NEZHA的博客",
+        "collectCount": 12,
+        "content": "工厂方法模式跟简单工厂模式在结构上的不同是很明显的，工厂方法模式的核心是一个抽象工厂类，而简单工厂模式的核心在一个具体类。显而易见工厂方法模式这种结构更好扩展，权力下发，分布式比集中式更具优势。",
+        "avatar": "https://user-gold-cdn.xitu.io/2017/12/7/16030a7862cce166?w=2448&h=3264&f=jpeg&s=835329",
+        "screenShot": "https://user-gold-cdn.xitu.io/2017/12/8/160348785b2f38f0?w=900&h=500&f=png&s=664200",
+        "originalUrl": "https://nezha.github.io/设计模式/2017-05-03-设计模式学习笔记-三种工厂模式/"
+    },
+    {
+        "meta_list": {
+            "readCount": 935,
+            "kindsOf": "前端",
+            "createTime": "2018-02-04T15:12:31.521Z",
+            "username": "蚂蚁金服数据体验技术"
+        },
+        "title": "Typescript玩转设计模式 之 对象行为型模式（下）",
+        "collectCount": 77,
+        "content": "Subject（目标）：目标又称为主题，它是指被观察的对象。在目标中定义了一个观察者集合，一个观察目标可以接受任意数量的观察者来观察，它提供一系列方法来增加和删除观察者对象，同时它定义了通知方法notify()。目标类可以是接口，也可以是抽象类或具体类。 ConcreteSub…",
+        "avatar": "https://user-gold-cdn.xitu.io/2017/9/7/217d533ac647f900de33fcd6f7d64c64",
+        "screenShot": "https://user-gold-cdn.xitu.io/2018/2/4/161615fa10f7a8ec?w=797&h=485&f=png&s=385879",
+        "originalUrl": "https://juejin.im/post/5a77211b6fb9a0635774d61a"
+    },
+    {
+        "meta_list": {
+            "readCount": 440,
+            "kindsOf": "设计",
+            "createTime": "2018-03-13T09:34:15.860Z",
+            "username": "niaonao"
+        },
+        "title": "确定唯一的对象 - 单例模式",
+        "collectCount": 10,
+        "content": "N 先生很快就要大学毕业，大学四年忙于学(网)业(游)，也没有找个女朋友。每每回家，家人都催促他赶快谈一个，或者干脆说要直接给 N 先生介绍对象。 有句话说什么样的年龄就该做什么样的事情，这句话放在当下还是很有道理的。可是 N 先生心中对成家立业是有自己的认识的，认为先立业而后…",
+        "avatar": "https://user-gold-cdn.xitu.io/2018/5/3/163250b8922ab19c?w=320&h=320&f=jpeg&s=17297",
+        "screenShot": "",
+        "originalUrl": "https://juejin.im/post/5aa799e26fb9a028d663d7d5"
+    }
+]
